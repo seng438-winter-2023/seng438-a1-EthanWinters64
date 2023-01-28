@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 16      |
 |-----------------|
-| Ethan Winters               |   
-| Carter Marcelo              |   
-| Karim Mansour      |   
-| Jason Pang            |   
+| Ethan Winters 30116419              |   
+| Carter Marcelo 30089543             |   
+| Karim Mansour 30112539     |   
+| Jason Pang 30120722           |   
 
 
 **Table of Contents**
